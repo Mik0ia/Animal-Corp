@@ -1,0 +1,42 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/benja/OneDrive/Documents/Unreal Projects/Animal_Corp_BASE/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset",
+				"C:/Users/benja/OneDrive/Documents/Unreal Projects/Animal_Corp_BASE/Content/FirstPerson/Input/IMC_Weapons.uasset",
+				"C:/Users/benja/OneDrive/Documents/Unreal Projects/Animal_Corp_BASE/Content/FirstPerson/Blueprints/BP_Weapon_Component.uasset",
+				"C:/Users/benja/OneDrive/Documents/Unreal Projects/Animal_Corp_BASE/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"C:/Users/benja/OneDrive/Documents/Unreal Projects/Animal_Corp_BASE/Content/GAME/INPUT/Actions/IA_Shoot.uasset",
+				"C:/Users/benja/OneDrive/Documents/Unreal Projects/Animal_Corp_BASE/Content/GAME/INPUT/Actions/IA_Jump.uasset",
+				"C:/Users/benja/OneDrive/Documents/Unreal Projects/Animal_Corp_BASE/Content/GAME/INPUT/Actions/IA_Look.uasset",
+				"C:/Users/benja/OneDrive/Documents/Unreal Projects/Animal_Corp_BASE/Content/GAME/INPUT/Actions/IA_Move.uasset",
+				"C:/Users/benja/OneDrive/Documents/Unreal Projects/Animal_Corp_BASE/Content/FirstPerson/Blueprints/BP_FirstPersonPlayerController.uasset",
+				"C:/Users/benja/OneDrive/Documents/Unreal Projects/Animal_Corp_BASE/Content/GAME/INPUT/IMC_Default.uasset",
+				"C:/Users/benja/OneDrive/Documents/Unreal Projects/Animal_Corp_BASE/Content/GAME/MAP/Office_MAP.umap",
+				"C:/Users/benja/OneDrive/Documents/Unreal Projects/Animal_Corp_BASE/Content/GAME/BP/BP_light.uasset",
+				"C:/Users/benja/OneDrive/Documents/Unreal Projects/Animal_Corp_BASE/Content/GAME/MATERIAL/M_Glow.uasset",
+				"C:/Users/benja/OneDrive/Documents/Unreal Projects/Animal_Corp_BASE/Content/GAME/MAP/_GENERATED/benja/Boolean_9E8FD1A8.uasset",
+				"C:/Users/benja/OneDrive/Documents/Unreal Projects/Animal_Corp_BASE/Content/GAME/MAP/_GENERATED/benja/Box_8456000D.uasset",
+				"C:/Users/benja/OneDrive/Documents/Unreal Projects/Animal_Corp_BASE/Content/PolygonTown/Meshes/Buildings/SM_Bld_House_Interior_Stairs_03.uasset",
+				"C:/Users/benja/OneDrive/Documents/Unreal Projects/Animal_Corp_BASE/Content/GAME/MAP/_GENERATED/benja/Boolean_65BD7AA6.uasset",
+				"C:/Users/benja/OneDrive/Documents/Unreal Projects/Animal_Corp_BASE/Content/GAME/MAP/_GENERATED/benja/Boolean_95A191FB.uasset",
+				"C:/Users/benja/OneDrive/Documents/Unreal Projects/Animal_Corp_BASE/Content/GAME/MAP/_GENERATED/benja/Boolean_C670D33D.uasset",
+				"C:/Users/benja/OneDrive/Documents/Unreal Projects/Animal_Corp_BASE/Content/GAME/MAP/_GENERATED/benja/Boolean_A2FB91E0.uasset",
+				"C:/Users/benja/OneDrive/Documents/Unreal Projects/Animal_Corp_BASE/Content/GAME/MAP/_GENERATED/benja/Boolean_B3F7549B.uasset",
+				"C:/Users/benja/OneDrive/Documents/Unreal Projects/Animal_Corp_BASE/Content/GAME/MAP/_GENERATED/benja/Boolean_B89DEA96.uasset",
+				"C:/Users/benja/OneDrive/Documents/Unreal Projects/Animal_Corp_BASE/Content/GAME/MAP/_GENERATED/benja/Boolean_C8CF5E0E.uasset",
+				"C:/Users/benja/OneDrive/Documents/Unreal Projects/Animal_Corp_BASE/Content/GAME/MAP/_GENERATED/benja/Boolean_EE4CF7A8.uasset",
+				"C:/Users/benja/OneDrive/Documents/Unreal Projects/Animal_Corp_BASE/Content/GAME/MAP/_GENERATED/benja/Boolean_F4D1E2AC.uasset",
+				"C:/Users/benja/OneDrive/Documents/Unreal Projects/Animal_Corp_BASE/Content/GAME/MAP/_GENERATED/benja/Boolean_FCB5E438.uasset",
+				"C:/Users/benja/OneDrive/Documents/Unreal Projects/Animal_Corp_BASE/Content/FirstPerson/Input/IMC_Default.uasset",
+				"C:/Users/benja/OneDrive/Documents/Unreal Projects/Animal_Corp_BASE/Content/FirstPerson/Input/Actions/IA_Move.uasset",
+				"C:/Users/benja/OneDrive/Documents/Unreal Projects/Animal_Corp_BASE/Content/FirstPerson/Input/Actions/IA_Look.uasset",
+				"C:/Users/benja/OneDrive/Documents/Unreal Projects/Animal_Corp_BASE/Content/FirstPerson/Input/Actions/IA_Jump.uasset",
+				"C:/Users/benja/OneDrive/Documents/Unreal Projects/Animal_Corp_BASE/Content/FirstPerson/Input/Actions/IA_Shoot.uasset"
+			]
+		}
+	]
+}
