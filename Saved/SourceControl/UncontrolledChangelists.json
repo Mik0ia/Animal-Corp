@@ -5,6 +5,8 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/benja/OneDrive/Documents/GitHub/Animal-Corp/Content/GAME/MAP/Office_MAP.umap",
+				"C:/Users/benja/OneDrive/Documents/GitHub/Animal-Corp/Content/GAME/BP/BP_Road.uasset",
 				"C:/Users/benja/OneDrive/Documents/Unreal Projects/Animal_Corp_BASE/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset",
 				"C:/Users/benja/OneDrive/Documents/Unreal Projects/Animal_Corp_BASE/Content/FirstPerson/Input/IMC_Weapons.uasset",
 				"C:/Users/benja/OneDrive/Documents/Unreal Projects/Animal_Corp_BASE/Content/FirstPerson/Blueprints/BP_Weapon_Component.uasset",
